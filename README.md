@@ -1,33 +1,55 @@
 # 👋 ¡Hola! Soy Carlos Bravo  
 
-🎓 Estudiante de **Ingeniería en Tecnologías de Información** en la Universidad Técnica Nacional (Costa Rica).  
-💻 Apasionado por el **desarrollo web & móvil**, la **administración de redes** y la **seguridad informática**.  
-🚀 Mi objetivo es aplicar mis conocimientos en entornos profesionales y seguir creciendo como Full Stack Developer & Network Specialist.  
+🎓 **Ingeniero en Tecnologías de Información** | Egresado de Bachillerato en la Universidad Técnica Nacional (UTN), Costa Rica.  
+💻 Especialista con un perfil técnico integral en **Infraestructura de Redes, Seguridad Operativa y Desarrollo Full Stack**.  
+🚀 Mi enfoque principal es la continuidad del negocio, la optimización de redes de alta disponibilidad y la creación de soluciones de software escalables.
 
 ---
 
-## 🛠️ Tecnologías
-**Frontend:** Vue.js · React · JavaScript · HTML5 · CSS3 · Bootstrap  
-**Backend:** Node.js · Express · PHP · Laravel · C# · Java · Python  
-**Mobile:** Flutter · Dart · Kotlin  
-**Bases de Datos:** MySQL · PostgreSQL · MongoDB  
-**Herramientas & Otros:** Git · Docker · Swagger · CCNA (Networking)  
+## 💼 Experiencia Profesional Reciente
+
+### **IT Operations Intern | Coocique R.L.** (Ene 2026 – Abr 2026)  
+*Modernización de infraestructura y gestión de servicios críticos en el sector financiero.*
+
+- **Despliegue SD-WAN:** Ejecución de la migración nacional de infraestructura Cisco hacia tecnología **Fortinet (FortiGate)**.  
+- **Protocolos Zero Downtime:** Gestión de ventanas de mantenimiento críticas con tiempos de inactividad inferiores a 3 minutos, asegurando la operatividad transaccional.  
+- **Ciberseguridad & IAM:** Administración de identidades y privilegios mediante **Active Directory** y control de activos con InvGate.  
+- **Soporte de Infraestructura:** Resolución de incidentes N1/N2 y mantenimiento de sistemas en entornos de misión crítica.
+
+---
+
+## 🛠️ Tecnologías & Herramientas
+
+### **🌐 Networking e Infraestructura**
+- SD-WAN (Fortinet FortiGate) | Cisco CCNA (Routing & Switching) | VPN | VLAN | Alta Disponibilidad (STP, EtherChannel) | Gestión de activos (InvGate).
+
+### **🛡️ Seguridad y Sistemas**
+- Gestión de Identidades (IAM) | Active Directory | Hardening de Sistemas | Linux (Fedora) | Windows Server | Auditoría ISO/IEC 27001 | Wireshark & Nmap.
+
+### **🚀 Desarrollo Full Stack & Mobile**
+- **Frontend:** Vue.js, React, JavaScript (ES6+), HTML5, CSS3, Bootstrap.  
+- **Backend:** Node.js, Express, PHP (Laravel), C# (.NET), Java, Python.  
+- **Mobile:** Flutter (Dart), Kotlin.  
+- **Bases de Datos:** MySQL, PostgreSQL, MongoDB, PL/SQL.
 
 ---
 
 ## 📌 Proyectos Destacados
-- **[Portafolio Web](https://iambr4vo.github.io/portafolio/)** – Presentación personal, proyectos y tecnologías.  
-- **Sistema Web para Albergue Juvenil** – Arquitectura cliente/servidor con Laravel + Vue.js + MySQL.  
-- **App Móvil para Gestión de Viáticos** – Flutter/Dart + API en C# .NET + PostgreSQL/MongoDB.  
-- **Auditoría y Diagnóstico de Red (COTAI)** – Evaluación de infraestructura, seguridad y gestión de riesgos.  
+
+- **[MediVault](https://github.com/iambr4vo/medivault)** – Laboratorio interactivo de ciberseguridad sobre **OWASP Top 10**. Implementa análisis de tráfico, rutas API seguras y mitigación de vulnerabilidades reales.  
+- **[Portafolio Web](https://iambr4vo.github.io/portafolio/)** – Showcase personal de proyectos y stack tecnológico.  
+- **Sistema Albergue Juvenil** – Arquitectura completa cliente/servidor desarrollada con Laravel, Vue.js y MySQL.  
+- **App de Gestión de Viáticos** – Solución móvil híbrida con Flutter/Dart conectada a microservicios en .NET.
 
 ---
 
 ## 📫 Contacto
-- ✉️ Email: bravo9386@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/carlosbravo0405](https://linkedin.com/in/carlosbravo0405)  
-- 🌐 Portafolio: [iambr4vo.github.io/portafolio](https://iambr4vo.github.io/portafolio)  
+
+- ✉️ **Email:** [bravo9386@gmail.com](mailto:bravo9386@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/carlosbravo0405](https://linkedin.com/in/carlosbravo0405)  
+- 🌐 **Web:** [iambr4vo.github.io/portafolio](https://iambr4vo.github.io/portafolio)
 
 ---
-
-✨ *Abierto a pasantías, proyectos freelance y colaboraciones en desarrollo de software y redes.*  
+<p align="center">
+  <i>"Transformando datos en soluciones y redes en conexiones seguras."</i>
+</p>
