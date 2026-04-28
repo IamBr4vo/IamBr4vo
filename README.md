@@ -39,7 +39,7 @@
 - **[MediVault](https://github.com/iambr4vo/medivault)** – Laboratorio interactivo de ciberseguridad sobre **OWASP Top 10**. Implementa análisis de tráfico, rutas API seguras y mitigación de vulnerabilidades reales.  
 - **[Portafolio Web](https://iambr4vo.github.io/portafolio/)** – Showcase personal de proyectos y stack tecnológico.  
 - **Sistema Albergue Juvenil** – Arquitectura completa cliente/servidor desarrollada con Laravel, Vue.js y MySQL.  
-- **App de Gestión de Viáticos** – Solución móvil híbrida con Flutter/Dart conectada a microservicios en .NET.
+- **[App de Gestión de Viáticos](https://github.com/JoseAndres20/movil_2)** – Solución móvil híbrida con Flutter/Dart conectada a microservicios en .NET.
 
 ---
 
